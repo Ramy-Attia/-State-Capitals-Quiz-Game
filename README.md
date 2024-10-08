@@ -1,5 +1,5 @@
-# -State-Capitals-Quiz-Game
-Description:
+# State-Capitals-Quiz-Game
+
 This Python script is a simple quiz game that tests the user's knowledge of U.S. state capitals. The game randomly selects a U.S. state and asks the user to input the capital of that state. The program continues to ask the user for state capitals until they decide to quit by entering "q."
 
 The game keeps track of both correct and incorrect answers. When the user decides to exit, the program displays the total number of correct and incorrect responses.
